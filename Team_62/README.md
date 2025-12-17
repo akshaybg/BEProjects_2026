@@ -47,6 +47,7 @@ Run server:
 python app.py
 Server runs on:
 http://0.0.0.0:5000
+Project URL: https://aislyntech.com/Api/smart-camera/index
 
 Security Notes
 Recording can only be stopped by the initiating user. CORS is enabled. Cloudflare tunnel is recommended for
@@ -57,3 +58,5 @@ Vibhu D V, Sonal Edrick Veigas, Akshatha S
 Smart Handled Camera System
 Copyright 2025
 License
+
+
